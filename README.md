@@ -1,6 +1,6 @@
 # Script para Mover Archivos que no son Fotos
 
-Este script Python te permite mover archivos que no son fotos a una carpeta específica, que se crea en base a la extensión del archivo. 
+Este script Python te permite mover archivos que no son fotos a una carpeta específica, todos los archivos que NO son fotos van a otro directorio. 
 
 ## Motivación
 
