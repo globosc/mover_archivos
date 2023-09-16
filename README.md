@@ -2,6 +2,17 @@
 
 Este script Python te permite mover archivos que no son fotos a una carpeta específica, que se crea en base a la extensión del archivo. 
 
+## Motivación
+
+Este script nace de la necesidad de organizar mi carpeta de fotos, que a lo largo del tiempo se había llenado de una variedad de archivos de distintos tipos. La situación se volvió confusa y poco práctica, ya que era difícil encontrar las fotos que buscaba entre la maraña de archivos no relacionados.
+
+La idea detrás de este script es simplificar la tarea de limpiar y organizar mi colección de fotos. Permite identificar automáticamente los archivos que no son fotos, basándose en la extensión del archivo, y los mueve a una carpeta separada. Esto hace que sea mucho más fácil mantener organizadas las fotos y eliminar archivos no deseados.
+
+Espero que este script sea útil para otros usuarios que enfrenten problemas similares de organización de archivos y les ayude a mantener sus colecciones de fotos más ordenadas y accesibles.
+
+Si tienes alguna pregunta o sugerencia para mejorar este script, no dudes en ponerte en contacto conmigo o contribuir al proyecto.
+
+
 ## Descripción
 
 A menudo, tenemos una carpeta llena de archivos y queremos organizarla, separando las fotos de otros tipos de archivos. Este script identifica archivos que no son fotos (basados en la extensión del archivo) y los mueve a una carpeta designada.
